@@ -1,6 +1,6 @@
 # Introduction
 
-- Name - Sumit Kumar
+- Name - Shubham Jaiswal
 - Email - [abcshubhamjaiswal@outlook.com](mailto:abcshubhamjaiswal@outlook.com)
 
 ## Simple Favorite Fruits App
